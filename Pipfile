@@ -13,7 +13,6 @@ ipython = "*"
 ipywidgets = "*"
 jupyter-contrib-nbextensions = "*"
 jupyterlab = "*"
-jupyterlab-latex = "*"
 jupytext = "*"
 
 [requires]
