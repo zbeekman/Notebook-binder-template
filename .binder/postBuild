@@ -7,5 +7,5 @@ jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension install --user --py jupytext
 jupyter nbextension enable --py jupytext
 jupyter labextension install jupyterlab-jupytext@0.19
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.38
 jupyter lab build
