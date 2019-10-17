@@ -15,6 +15,7 @@ jupyter-contrib-nbextensions = "*"
 jupyterlab = "*"
 jupytext = "*"
 sympy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
