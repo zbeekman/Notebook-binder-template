@@ -1,5 +1,6 @@
 #!/bin/bash
 
+jupyter lab clean
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension install --user --py jupytext
