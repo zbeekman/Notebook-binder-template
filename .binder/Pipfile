@@ -13,6 +13,7 @@ jupytext = "*"
 jupyter-contrib-nbextensions = "*"
 ipywidgets = "*"
 sympy = "*"
+nbgitpuller = "*"
 
 [requires]
 python_version = "3.7"
