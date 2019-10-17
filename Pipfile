@@ -6,16 +6,13 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pandas = "*"
-numpy = "*"
 matplotlib = "*"
-ipython = "*"
-ipywidgets = "*"
-jupyter-contrib-nbextensions = "*"
-jupyterlab = "*"
-jupytext = "*"
-sympy = "*"
 scipy = "*"
+pandas = "*"
+jupytext = "*"
+jupyter-contrib-nbextensions = "*"
+ipywidgets = "*"
+sympy = "*"
 
 [requires]
 python_version = "3.7"
