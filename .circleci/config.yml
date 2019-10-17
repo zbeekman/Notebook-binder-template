@@ -181,7 +181,7 @@ jobs:
                   docker tag ${CONTAINER_NAME}:${DOCKER_TAG} ${CONTAINER_NAME}:latest
                   docker tag ${CONTAINER_NAME}:${DOCKER_TAG} ${CONTAINER_NAME}:${CIRCLE_BRANCH}
                   docker push ${CONTAINER_NAME}:${DOCKER_TAG}
-                  docker push ${CONTAINER_NAME}:${latest}
+                  docker push ${CONTAINER_NAME}:latest
                   docker push ${CONTAINER_NAME}:${CIRCLE_BRANCH}
             fi
 workflows:
