@@ -14,6 +14,7 @@ jupyter-contrib-nbextensions = "*"
 ipywidgets = "*"
 sympy = "*"
 nbgitpuller = "*"
+bqplot = "*"
 
 [requires]
 python_version = "3.7"
