@@ -2,7 +2,7 @@
 Template repository for new Notebook/Binder repos
 
 [![CircleCI](https://circleci.com/gh/zbeekman/Notebook-binder-template/tree/master.svg?style=svg)](https://circleci.com/gh/zbeekman/Notebook-binder-template/tree/master)
-[![CircleCI][circleci badge]][circleci build]
+
 [![binder badge][binder icon]][open binder]
 
 ## Using environment without duplicating the repository
